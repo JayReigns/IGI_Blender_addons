@@ -5,7 +5,7 @@ bl_info = {
     "version": (1, 0, 0),
     "blender": (2, 8, 0),
     "location": "Text Editor > ToolBar > Text Panel",
-    "description": "Browse through the python api via the user interface",
+    "description": "",
     "category": "Development"
 }
 
